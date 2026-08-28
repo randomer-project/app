@@ -1,7 +1,7 @@
-<head>
-  <link rel="icon" type="image/x-icon" href="/favicon.ico">
-  <link rel="shortcut icon" href="/favicon.ico">
-</head>
+---
+title: "Моя страница"
+favicon: /favicon.ico
+---
 
 # ```RU``` Политика конфидециальности Randomer
 ## 1. Сбор и использование информации
