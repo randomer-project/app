@@ -1,4 +1,6 @@
-# ```RU``` Randomer Privacy Policy
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+# ```RU``` Политика конфидециальности Randomer
 ## 1. Сбор и использование информации
 ### 1.1. Персональные данные
 
