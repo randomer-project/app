@@ -1,2 +1,4 @@
 title: "Randomer"
-favicon: /favicon.ico
+favicon: https://randomer-project.github.io/app/favicon.ico
+include:
+  - favicon.ico
