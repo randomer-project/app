@@ -4,7 +4,7 @@ description: "Прочитайте политику конфидециально
 image: images/folder.png
 ---
 
-<style href="styles.css"></style>
+<link rel="stylesheet" href="styles.css">
 <link rel="icon" href="favicon.png">
 
 <toolbar># ```RU``` Политика конфидециальности Randomer</toolbar>
