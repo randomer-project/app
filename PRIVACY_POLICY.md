@@ -3,6 +3,36 @@ title: "Privacy Policy"
 ---
 
 <link rel="icon" href="favicon.png">
+<script>
+  const express = require('express');
+  const app = express();
+  
+  app.get('/PRIVACY_POLICY', (req, res) => {
+      // Получаем значение параметра 'e' из URL (?e=1)
+      const eParam = req.query.e;
+  
+      // Устанавливаем заголовок ответа как HTML
+      res.setHeader('Content-Type', 'text/html; charset=utf-8');
+  
+      // Логика ответа в зависимости от параметра
+      if (eParam === '1') {
+          res.send(`
+              <!DOCTYPE html>
+              <html>
+              <head><title>Успешный отклик</title></head>
+              <body>
+                  <h1>Параметр e равен 1!</h1>
+                  <p>Сервер успешно обработал ваш запрос.</p>
+              </body>
+              </html>
+          `);
+      } else {
+          res.status(400).send('<h1>Ошибка: неверный параметр e</h1>');
+      }
+  });
+  
+  app.listen(80, () => console.log('Сервер запущен на example.com'));
+</script>
 
 # ```RU``` Политика конфидециальности Randomer
 ## 1. Сбор и использование информации
