@@ -1,7 +1,8 @@
 ---
-title: "Моя страница"
-favicon: /favicon.ico
+title: "Privacy Policy"
 ---
+
+<link rel="icon" href="favicon.png">
 
 # ```RU``` Политика конфидециальности Randomer
 ## 1. Сбор и использование информации
