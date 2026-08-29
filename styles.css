@@ -1,5 +1,6 @@
 toolbar {
-  backround-color: #880000;
+  background-color: #880000;
   color: #ffffff;
   font-family: Arial, sans-serif;
+  radius: 22dp;
 }
