@@ -1,7 +1,7 @@
 ---
 title: "Privacy Policy"
 description: "Прочитайте политику конфидециальности Randomer"
-image: favicon.png
+image: images/folder.png
 ---
 
 <link rel="icon" href="favicon.png">
