@@ -6,7 +6,7 @@ image: images/folder.png
 
 <link rel="icon" href="favicon.png">
 
-# ```RU``` Политика конфидециальности Randomer
+<toolbar># ```RU``` Политика конфидециальности Randomer</toolbar>
 ## 1. Сбор и использование информации
 ### 1.1. Персональные данные
 
