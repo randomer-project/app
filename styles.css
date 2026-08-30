@@ -1,6 +1,10 @@
 toolbar {
   background-color: #880000;
   color: #ffffff;
+  font-size: x-large;
+  text-overflow: ellipsis;
   font-family: Arial, sans-serif;
-  radius: 22dp;
+  border-radius: 33px;
+  padding: 10px;
+  box-shadow: 0px 0px 50px 0px rgba(34, 60, 80, 0.3);
 }
