@@ -4,7 +4,10 @@ toolbar {
   font-size: x-large;
   text-overflow: ellipsis;
   font-family: Arial, sans-serif;
-  border-radius: 33px;
-  padding: 10px;
-  box-shadow: 0px 0px 50px 0px rgba(34, 60, 80, 0.3);
+  font-weight: bold;
+  border-radius: 22px;
+  padding: 20px;
+  position: fixed;
+  box-shadow: 0px 0px 72px 0px rgba(34, 60, 80, 0.3);
+  width: 100%;
 }
