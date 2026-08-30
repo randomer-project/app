@@ -18,7 +18,7 @@ toolbar {
   transform: translate(0px, -40px);
 }
 
-@media (min-width: 768px){
+@media (min-width: 1078px){
   toolbar {
     background-color: #880000;
     color: #ffffff;
