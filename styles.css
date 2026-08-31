@@ -24,10 +24,9 @@ toolbar {
 }
 
 .icon {
-  border-radius: 3px;
+  border-radius: 8px;
   position: fixed;
   transform: translate(15px, -25px);
-  border: 1px solid #cc6666;
 }
 
 @media (min-width: 560px){
