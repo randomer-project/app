@@ -23,6 +23,13 @@ toolbar {
   -webkit-backdrop-filter: blur(2px);
 }
 
+.icon {
+  border-radius: 3px;
+  position: fixed;
+  transform: translate(15px, -25px);
+  border: 1px solid #cc6666;
+}
+
 @media (min-width: 560px){
   toolbar {
     background-color: rgba(136, 0, 0, 0.40);
