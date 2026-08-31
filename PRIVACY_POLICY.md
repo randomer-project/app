@@ -7,7 +7,7 @@ image: images/folder.png
 <link rel="stylesheet" href="styles.css">
 <link rel="icon" href="favicon.png">
 
-<toolbar># ```RU``` Политика конфидециальности Randomer</toolbar>
+<toolbar class="markdown-body">```RU``` Политика конфидециальности Randomer</toolbar>
 ## 1. Сбор и использование информации
 ### 1.1. Персональные данные
 
