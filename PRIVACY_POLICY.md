@@ -8,7 +8,7 @@ image: images/folder.png
 <link rel="icon" href="favicon.png">
 
 <toolbar><code class="language-plaintext highlighter-rouge">RU</code> Политика конфидециальности Randomer</toolbar>
-<img src="/app/favicon.png" alt="Icon" width="30" height="30">
+<img class="icon" src="/app/favicon.png" alt="Icon" width="30" height="30">
 ## 1. Сбор и использование информации
 ### 1.1. Персональные данные
 
