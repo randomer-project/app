@@ -1,5 +1,5 @@
 toolbar {
-  background-color: rgba(136, 0, 0, 40);
+  background-color: rgba(136, 0, 0, 0.40);
   color: #ffffff;
   font-size: x-large;
   text-overflow: ellipsis;
@@ -25,7 +25,7 @@ toolbar {
 
 @media (min-width: 560px){
   toolbar {
-    background-color: #880000;
+    background-color: rgba(136, 0, 0, 0.40);
     color: #ffffff;
     font-size: x-large;
     text-overflow: ellipsis;
@@ -51,7 +51,7 @@ toolbar {
 }
 @media (min-width: 720px){
   toolbar {
-    background-color: #880000;
+    background-color: rgba(136, 0, 0, 0.40);
     color: #ffffff;
     font-size: x-large;
     text-overflow: ellipsis;
@@ -77,7 +77,7 @@ toolbar {
 }
 @media (min-width: 800px){
   toolbar {
-    background-color: #880000;
+    background-color: rgba(136, 0, 0, 0.40);
     color: #ffffff;
     font-size: x-large;
     text-overflow: ellipsis;
@@ -103,7 +103,7 @@ toolbar {
 }
 @media (min-width: 1078px){
   toolbar {
-    background-color: rgba(136, 0, 0, 40);
+    background-color: rgba(136, 0, 0, 0.40);
     color: #ffffff;
     font-size: x-large;
     text-overflow: ellipsis;
