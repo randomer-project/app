@@ -5,6 +5,7 @@ toolbar {
   text-overflow: ellipsis;
   font-family: Arial, sans-serif;
   font-weight: bold;
+  text-align: center;
   overflow: hidden;
   white-space: nowrap;
   border-radius: 22px;
@@ -16,8 +17,78 @@ toolbar {
   max-width: 1012px;
   max-height: 60px;
   transform: translate(0px, -40px);
+  border: 1px solid #cc6666;
 }
 
+@media (min-width: 560px){
+  toolbar {
+    background-color: #880000;
+    color: #ffffff;
+    font-size: x-large;
+    text-overflow: ellipsis;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    overflow: hidden;
+    white-space: nowrap;
+    border-radius: 22px;
+    padding: 15px;
+    position: fixed;
+    box-shadow: 0px 0px 72px 0px rgba(34, 60, 80, 0.3);
+    width: 92%;
+    box-sizing: border-box;
+    max-width: 1012px;
+    max-height: 60px;
+    transform: translate(0px, -40px);
+    border: 1px solid #cc6666;
+  }
+}
+@media (min-width: 720px){
+  toolbar {
+    background-color: #880000;
+    color: #ffffff;
+    font-size: x-large;
+    text-overflow: ellipsis;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    overflow: hidden;
+    white-space: nowrap;
+    border-radius: 22px;
+    padding: 15px;
+    position: fixed;
+    box-shadow: 0px 0px 72px 0px rgba(34, 60, 80, 0.3);
+    width: 93%;
+    box-sizing: border-box;
+    max-width: 1012px;
+    max-height: 60px;
+    transform: translate(0px, -40px);
+    border: 1px solid #cc6666;
+  }
+}
+@media (min-width: 800px){
+  toolbar {
+    background-color: #880000;
+    color: #ffffff;
+    font-size: x-large;
+    text-overflow: ellipsis;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    overflow: hidden;
+    white-space: nowrap;
+    border-radius: 22px;
+    padding: 15px;
+    position: fixed;
+    box-shadow: 0px 0px 72px 0px rgba(34, 60, 80, 0.3);
+    width: 95%;
+    box-sizing: border-box;
+    max-width: 1012px;
+    max-height: 60px;
+    transform: translate(0px, -40px);
+    border: 1px solid #cc6666;
+  }
+}
 @media (min-width: 1078px){
   toolbar {
     background-color: #880000;
@@ -26,6 +97,7 @@ toolbar {
     text-overflow: ellipsis;
     font-family: Arial, sans-serif;
     font-weight: bold;
+    text-align: center;
     overflow: hidden;
     white-space: nowrap;
     border-radius: 22px;
@@ -37,5 +109,6 @@ toolbar {
     max-width: 1012px;
     max-height: 60px;
     transform: translate(0px, -40px);
+    border: 1px solid #cc6666;
   }
 }
