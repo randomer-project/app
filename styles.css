@@ -26,7 +26,8 @@ toolbar {
 .icon {
   border-radius: 8px;
   position: fixed;
-  transform: translate(15px, -25px);
+  align-items: flex-start;
+  display: flex;
 }
 
 @media (min-width: 560px){
