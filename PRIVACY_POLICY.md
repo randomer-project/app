@@ -1,5 +1,5 @@
 ---
-title: "Privacy Policy"
+title: "Политика конфидециальности"
 description: "Прочитайте политику конфидециальности Randomer"
 image: images/folder.png
 ---
