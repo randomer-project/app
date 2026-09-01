@@ -5,10 +5,8 @@ image: images/folder.png
 ---
 
 <link rel="stylesheet" href="styles.css">
-<link rel="icon" href="favicon.png" type="image/x-icon">
-<link rel="icon" href="favicon.png?v=2">
-<link rel="icon" href="favicon.ico" type="image/x-icon">
-<link rel="icon" href="favicon.ico?v=2">
+<link rel="icon" href="favicon.ico" sizes="any">
+<link rel="icon" href="favicon.png" type="image/png">
 
 <toolbar><img class="icon" src="/app/favicon.png" alt="Icon" width="30" height="30">Randomer</toolbar>
 <br>
