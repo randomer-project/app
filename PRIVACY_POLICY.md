@@ -8,7 +8,8 @@ image: images/folder.png
 <link rel="icon" href="favicon.png">
 
 <toolbar><img class="icon" src="/app/favicon.png" alt="Icon" width="30" height="30">Randomer</toolbar>
-# <span style="color: #cc6666;">Политика конфидециальности Randomer</span>
+<br>
+# **<span style="color: #cc6666;">Политика конфидециальности Randomer</span>**
 ## 1. Сбор и использование информации
 ### 1.1. Персональные данные
 
