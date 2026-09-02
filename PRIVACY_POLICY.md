@@ -38,21 +38,13 @@ image: images/folder.png
 ## 2. Разрешения устройства
 
 Приложение запрашивает следующие разрешения:
-<table>
+<table class="r_tables">
   <tr>
-    <th>Разрешение</th>
     <th>android.permission.VIBRATE</td>
-  </tr>
-  <tr>
-    <th>Назначение</th>
     <th>Необходимо для вибрации при случайном выборе или нажатии кнопок</td>
   </tr>
   <tr>
-    <th>Разрешение</th>
     <th>android.hardware.sensor.accelerometer</td>
-  </tr>
-  <tr>
-    <th>Назначение</th>
     <th>Используется для функции «встряхнуть устройство» для активации рандомизации</td>
   </tr>
 </table>
