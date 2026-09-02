@@ -8,7 +8,7 @@ image: images/folder.png
 <link rel="icon" href="favicon.ico" sizes="any">
 <link rel="icon" href="favicon.png" type="image/png">
 
-<toolbar><img class="icon" src="/app/favicon.png" alt="Icon" width="30" height="30">Randomer</toolbar>
+<toolbar><img class="icon" src="/app/favicon.png" alt="Icon" width="30" height="30"><a href="https://randomer-project.github.io/app/">Randomer</a></toolbar>
 <br>
 # **<span style="color: #cc6666;">Политика конфидециальности Randomer</span>**
 ## 1. Сбор и использование информации
@@ -120,7 +120,7 @@ image: images/folder.png
 - Право на переносимость — нет данных для переноса
 
 Если вы считаете, что мы каким-либо образом нарушаем ваши права, свяжитесь с нами по email ниже.
-##11. Контактная информация
+## 11. Контактная информация
 
 Разработчик: [ИМЯ РАЗРАБОТЧИКА ИЛИ НАЗВАНИЕ КОМПАНИИ]
 Email: [ВАШ EMAIL]
