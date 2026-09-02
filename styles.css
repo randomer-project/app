@@ -1,3 +1,10 @@
+:root {
+  color-scheme: light dark;
+  
+  background-color: light-dark(#ffffff, #222222);
+  color: light-dark(#000000, #ffffff);
+}
+
 toolbar {
   background-color: rgba(136, 0, 0, 0.40);
   color: #ffffff;
