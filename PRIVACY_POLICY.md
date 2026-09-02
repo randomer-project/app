@@ -40,12 +40,12 @@ image: images/folder.png
 Приложение запрашивает следующие разрешения:
 <table class="r_tables">
   <tr>
-    <th>android.permission.VIBRATE</td>
-    <th>Необходимо для вибрации при случайном выборе или нажатии кнопок</td>
+    <th>android.permission.VIBRATE</th>
+    <th>Необходимо для вибрации при случайном выборе или нажатии кнопок</th>
   </tr>
   <tr>
-    <th>android.hardware.sensor.accelerometer</td>
-    <th>Используется для функции «встряхнуть устройство» для активации рандомизации</td>
+    <th>android.hardware.sensor.accelerometer</th>
+    <th>Используется для функции «встряхнуть устройство» для активации рандомизации</th>
   </tr>
 </table>
 
