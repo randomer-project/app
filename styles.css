@@ -1,4 +1,4 @@
-:root {
+body {
   color-scheme: light dark;
   
   background-color: light-dark(#ffffff, #222222);
