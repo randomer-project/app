@@ -1,6 +1,8 @@
-body {
+:root{
   color-scheme: light dark;
-  
+}
+
+body {
   background-color: light-dark(#ffffff, #222222);
   color: light-dark(#000000, #ffffff);
 }
@@ -35,6 +37,15 @@ toolbar {
   position: fixed;
   align-items: flex-start;
   display: flex;
+}
+
+.markdown-body table tr {
+  background-color: light-dark(#ffffff, #333333);
+  border-top: 1px solid #c6cbd1;
+}
+.markdown-body table tr:nth-child(2n) {
+  background-color: light-dark(#f6f8fa, #555555);
+  border-top: 1px solid #c6cbd1;
 }
 
 @media (min-width: 560px){
