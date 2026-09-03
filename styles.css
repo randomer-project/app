@@ -39,6 +39,16 @@ toolbar {
   display: flex;
 }
 
+.markdown-alert.markdown-alert-important {
+    border-left-color: var(--borderColor-done-emphasis);
+}
+.markdown-alert {
+    padding: var(--base-size-8) var(--base-size-16);
+    margin-bottom: var(--base-size-16);
+    color: inherit;
+    border-left: .25em solid var(--borderColor-default);
+}
+
 .markdown-body table tr {
   background-color: light-dark(#ffffff, #333333);
   border-top: 1px solid #c6cbd1;
