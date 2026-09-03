@@ -9,6 +9,20 @@ image: images/folder.png
 
 <a href="https://randomer-project.github.io/app/"><toolbar><img class="icon" src="/app/favicon.png" alt="Icon" width="30" height="30">Randomer</toolbar></a>
 <br>
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
 # **<span style="color: #cc6666;">Политика конфидециальности Randomer</span>**
 ## 1. Сбор и использование информации
 ### 1.1. Персональные данные
