@@ -57,7 +57,7 @@ toolbar {
     border-left: .25em solid rgb(136, 0, 0);
 }
 svg.important_svg {
-  color: #cc6666;
+  fill: #cc6666;
 }
 
 .markdown-body table tr {
