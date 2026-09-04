@@ -40,16 +40,17 @@ toolbar {
 }
 
 .markdown-alert.markdown-alert-important {
-    border-left-color: var(--borderColor-done-emphasis);
+    border-left-color: #cc6666;
 }
 .markdown-alert.markdown-alert-important .markdown-alert-title {
-    color: rgba(136, 0, 0, 0.40);
+    color: #cc6666;
 }
 .markdown-alert .markdown-alert-title {
-    color: rgba(136, 0, 0, 0.40);
+    color: #cc6666;
 }
 .markdown-alert {
-    background-color: rgba(136, 0, 0, 0.40);
+    background-color: rgba(204, 102, 102, 0.10);
+    border-radius: 22px;
     padding: 8px 16px;
     margin-bottom: 16px;
     color: inherit;
