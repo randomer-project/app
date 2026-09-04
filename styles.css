@@ -56,7 +56,7 @@ toolbar {
     color: inherit;
     border-left: .25em solid rgb(136, 0, 0);
 }
-important_svg {
+svg.important_svg {
   color: #cc6666;
 }
 
