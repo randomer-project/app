@@ -44,9 +44,11 @@ toolbar {
 }
 .markdown-alert.markdown-alert-important .markdown-alert-title {
     color: #cc6666;
+    font-weight: bold;
 }
 .markdown-alert .markdown-alert-title {
     color: #cc6666;
+    font-weight: bold;
 }
 .markdown-alert {
     background-color: rgba(204, 102, 102, 0.10);
@@ -58,6 +60,7 @@ toolbar {
 }
 svg.important_svg {
   fill: #cc6666;
+  margin-right: 6px;
 }
 
 .markdown-body table tr {
