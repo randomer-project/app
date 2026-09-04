@@ -45,10 +45,12 @@ toolbar {
 .markdown-alert.markdown-alert-important .markdown-alert-title {
     color: #cc6666;
     font-weight: bold;
+    margin-bottom: 16px;
 }
 .markdown-alert .markdown-alert-title {
     color: #cc6666;
     font-weight: bold;
+    margin-bottom: 16px;
 }
 .markdown-alert {
     background-color: rgba(204, 102, 102, 0.10);
@@ -61,6 +63,10 @@ toolbar {
 svg.important_svg {
   fill: #cc6666;
   margin-right: 6px;
+  transform: translate(0px, 4px);
+}
+p.alert {
+  margin-bottom: 0px;
 }
 
 .markdown-body table tr {
