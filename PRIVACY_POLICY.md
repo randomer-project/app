@@ -48,7 +48,7 @@ MyTracker может автоматически собирать следующ�
         stroke-linejoin="round"
     />
 </svg>
-Important</p><p dir="auto">Crucial information necessary for users to succeed.</p>
+Important</p><p dir="auto" class="alert">Crucial information necessary for users to succeed.</p>
 </div>
 > [!IMPORTANT]
 > Все собираемые данные являются **анонимными и обезличенными**. Они не позволяют идентифицировать конкретного пользователя и используются исключительно в агрегированном виде для анализа общей эффективности приложения и маркетинговых кампаний.
