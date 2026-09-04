@@ -62,11 +62,9 @@ toolbar {
     color: inherit;
     border-left: .25em solid rgb(136, 0, 0);
     padding-top: 4px;
-    padding-bottom: 4px;
+    padding-bottom: 15px;
 }
 svg.important_svg {
-  fill: #cc6666;
-  margin-right: 6px;
   transform: translate(0px, 7px);
 }
 p.alert {
