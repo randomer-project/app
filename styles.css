@@ -56,6 +56,9 @@ toolbar {
     color: inherit;
     border-left: .25em solid rgb(136, 0, 0);
 }
+important_svg {
+  color: #cc6666;
+}
 
 .markdown-body table tr {
   background-color: light-dark(#ffffff, #333333);
