@@ -77,11 +77,11 @@ MyTracker может автоматически собирать следующ�
 Приложение запрашивает следующие разрешения:
 <table class="r_tables">
   <tr>
-    <th>android.permission.VIBRATE</th>
+    <th>android.&nbsp;permission.&nbsp;VIBRATE</th>
     <th>Необходимо для вибрации при случайном выборе или нажатии кнопок</th>
   </tr>
   <tr>
-    <th>android.hardware.sensor.accelerometer</th>
+    <th>android.&nbsp;hardware.&nbsp;sensor.&nbsp;accelerometer</th>
     <th>Используется для функции «встряхнуть устройство» для активации рандомизации</th>
   </tr>
 </table>
