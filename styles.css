@@ -2,6 +2,10 @@
   color-scheme: light dark;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background-color: light-dark(#ffffff, #222222);
   color: light-dark(#000000, #ffffff);
