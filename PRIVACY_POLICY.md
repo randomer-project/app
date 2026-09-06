@@ -3,9 +3,10 @@ title: "Политика конфидециальности"
 description: "Прочитайте политику конфидециальности Randomer"
 image: images/folder.png
 ---
-
-<link rel="stylesheet" href="styles.css">
-<link rel="icon" href="favicon.png">
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="favicon.png">
+</head>
 
 <a href="https://randomer-project.github.io/app/"><toolbar><img class="icon" src="/app/favicon.png" alt="Icon" width="30" height="30">Randomer</toolbar></a>
 <br>
