@@ -29,7 +29,7 @@ toolbar {
   box-sizing: border-box;
   max-width: 1012px;
   max-height: 60px;
-  transform: translate(0px, -40px);
+  transform: translate(0px, -15px);
   border: 1px solid #cc6666;
   z-index: 100;
   
@@ -102,7 +102,7 @@ p.alert {
     box-sizing: border-box;
     max-width: 1012px;
     max-height: 60px;
-    transform: translate(0px, -40px);
+    transform: translate(0px, -15px);
     border: 1px solid #cc6666;
     z-index: 100;
 
@@ -129,7 +129,7 @@ p.alert {
     box-sizing: border-box;
     max-width: 1012px;
     max-height: 60px;
-    transform: translate(0px, -40px);
+    transform: translate(0px, -15px);
     border: 1px solid #cc6666;
     z-index: 100;
 
@@ -156,7 +156,7 @@ p.alert {
     box-sizing: border-box;
     max-width: 1012px;
     max-height: 60px;
-    transform: translate(0px, -40px);
+    transform: translate(0px, -15px);
     border: 1px solid #cc6666;
     z-index: 100;
 
@@ -183,7 +183,7 @@ p.alert {
     box-sizing: border-box;
     max-width: 1012px;
     max-height: 60px;
-    transform: translate(0px, -40px);
+    transform: translate(0px, -15px);
     border: 1px solid #cc6666;
     z-index: 100;
 
