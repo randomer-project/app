@@ -56,6 +56,10 @@ toolbar {
 .markdown-alert.markdown-alert-caution .markdown-alert-title {
     color: #E60000;
 }
+.markdown-alert h2 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
 .markdown-alert .markdown-alert-title {
     color: #cc6666;
     font-weight: bold;
