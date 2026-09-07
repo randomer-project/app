@@ -102,7 +102,7 @@ MyTracker может автоматически собирать следующ�
 
 Провайдер: ООО «ВКонтакте»
 Назначение: Сбор обезличенной аналитики для оценки KPI и улучшения приложения
-Тип данных: Обезличенные технические данные и события использования (см. [раздел 1.2](https://randomer-project.github.io/app/PRIVACY_POLICY#12-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D0%BE%D0%B1-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8-mytracker))
+Тип данных: Обезличенные технические данные и события использования (см. [раздел 1.2](https://randomer-project.github.io/app/privacy-policy#12-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D0%BE%D0%B1-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8-mytracker))
 Политика конфиденциальности: [https://tracker.my.com/ru/legal/privacy-policy](https://tracker.my.com/ru/legal/privacy-policy)
 
 <div class="markdown-alert markdown-alert-important" dir="auto">
@@ -179,10 +179,10 @@ MyTracker может автоматически собирать следующ�
 ## 11. Контактная информация
 
 - Разработчик: [ИМЯ РАЗРАБОТЧИКА ИЛИ НАЗВАНИЕ КОМПАНИИ]
-- Email: [ВАШ EMAIL](email)
+- Email: <example@gmail.com>
 - Страна: [СТРАНА РАЗРАБОТЧИКА]
 
 По вопросам обработки данных через MyTracker:
 
-- Поддержка MyTracker: [support@tracker.my.com](support@tracker.my.com)
+- Поддержка MyTracker: <support@tracker.my.com>
 - Политика конфиденциальности MyTracker: [https://tracker.my.com/ru/legal/privacy-policy](https://tracker.my.com/ru/legal/privacy-policy)
