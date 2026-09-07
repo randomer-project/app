@@ -44,6 +44,10 @@ toolbar {
   display: flex;
 }
 
+a {
+  color: #cc6666;
+}
+
 .markdown-alert.markdown-alert-important {
     border-left-color: #cc6666;
 }
