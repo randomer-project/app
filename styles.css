@@ -104,6 +104,7 @@ footer a {
 img.logo {
   border-radius: 7px;
   border: 1px solid #cc6666;
+  transform: translate(0px, 5px);
 }
 
 .markdown-body table tr {
