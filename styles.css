@@ -89,12 +89,18 @@ p.alert {
 }
 
 footer {
-  backgrond: linear-gradient(to bottom right, #880000, #cc6666);
+  background: linear-gradient(to bottom right, #880000, #cc6666);
   text-align: center;
   color: #ffffff;
   padding: 16px;
   min-height: 400px;
   line-height: 2.5;
+  right: 0px;
+  left: 0px;
+}
+img.logo {
+  border-radius: 7px;
+  border: 1px solid #cc6666;
 }
 
 .markdown-body table tr {
