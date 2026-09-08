@@ -88,6 +88,15 @@ p.alert {
   margin-bottom: 0px;
 }
 
+footer {
+  backgrond: linear-gradient(to bottom right, #880000, #cc6666);
+  text-align: center;
+  color: #ffffff;
+  padding: 16px;
+  min-height: 400px;
+  line-height: 2.5;
+}
+
 .markdown-body table tr {
   background-color: light-dark(#ffffff, #333333);
   border-top: 1px solid #c6cbd1;
