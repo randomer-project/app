@@ -23,7 +23,8 @@
     <link rel="stylesheet" href="/app/assets/css/style.css?v=f45aa0a4e3359ad532d723925739e6f80fc34346">
     <link rel="stylesheet" href="https://randomer-project.github.io/app/styles.css">
   </head>
-  <body class="container-lg px-3 my-5 markdown-body">
+  <body>
+    <block class="container-lg px-3 my-5 markdown-body">
     <a href="https://randomer-project.github.io/app/">
       <toolbar>
         <img class="icon" src="/app/favicon.png" alt="Icon" width="30" height="30">
@@ -32,9 +33,9 @@
     </a>
     
     {{ content }}
-
+    </block>
     <footer>
-      <p><img class="icon" src="/app/favicon.png" alt="Icon" width="20" height="20"> Randomer</p><br>
+      <img class="logo" src="/app/favicon.png" alt="Icon" width="20" height="20"> Randomer
       <a href="{{ page.anotherLang }}"><b>{{ page.footerLangSwitch}}</b></a>
       <a href="https://randomer-project.github.io/app/ru">Главный сайт <b>RU</b></a><a href="https://randomer-project.github.io/app/en"><b> EN</b></a>
     </footer>
