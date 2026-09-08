@@ -1,12 +1,7 @@
 ---
 title: "Политика конфидециальности"
 description: "Прочитайте политику конфидециальности Randomer"
-image: images/folder.png
 ---
-<head>
-    <link rel="stylesheet" href="styles.css">
-    <link rel="icon" href="favicon.png">
-</head>
 
 <br>
 # **<span style="color: #cc6666;">Политика конфидециальности Randomer</span>**
