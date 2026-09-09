@@ -1,6 +1,13 @@
 ---
 title: "Политика конфидециальности"
 description: "Прочитайте политику конфидециальности Randomer"
+anotherLang: https://randomer-project.github.io/app/en/privacy-policy
+footerLangSwitch: "SWITCH TO ENGLISH"
+footerLinkChannel: "Котик рыжопик: "
+footerLinkChannelRutube: "RUTUBE"
+footerLinkChannelRutubeLogo: https://randomer-project.github.io/app/images/rutubeIcon.png
+footerLinkChannelMax: "MAX"
+footerLinkChannelMaxLogo: https://randomer-project.github.io/app/images/maxIcon.png
 ---
 
 <br>
