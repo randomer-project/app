@@ -102,8 +102,8 @@ footer a {
   color: #ffffff;
 }
 img.logo {
+  background-color: #00000000;
   border-radius: 7px;
-  border: 1px solid #cc6666;
   transform: translate(0px, 5px);
 }
 
