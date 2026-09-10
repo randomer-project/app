@@ -1,6 +1,7 @@
 ---
 title: "Политика конфидециальности"
 description: "Прочитайте политику конфидециальности Randomer"
+MainPage: "Главный сайт "
 anotherLang: https://randomer-project.github.io/app/en/privacy-policy
 footerLangSwitch: "SWITCH TO ENGLISH"
 footerLinkChannel: "Котик рыжопик: "
