@@ -12,30 +12,32 @@ footerLinkChannelMaxLogo: https://randomer-project.github.io/app/images/maxIcon.
 ---
 
 <br>
-# **<span style="color: #cc6666;">Политика конфидециальности Randomer</span>**
-## 1. Сбор и использование информации
-### 1.1. Персональные данные
+# **<span style="color: #cc6666;">Randomer Privacy Policy</span>**
 
-Приложение НЕ собирает, НЕ хранит и НЕ передаёт персональные данные пользователей.
+## 1. Collection and Use of Information
 
-Мы не запрашиваем и не получаем доступ к:
+### 1.1. Personal Data
 
-- Имени, фамилии, адресу электронной почты
-- Номеру телефона
-- Геолокации
-- Контактам
-- Фотографиям, камере, микрофону
-- Любой другой личной информации
+The application does NOT collect, DOES NOT store, and DOES NOT transfer users' personal data.
 
-### 1.2. Данные об использовании (MyTracker)
+We do not request or gain access to:
 
-Приложение использует аналитический сервис **MyTracker** (ООО «ВКонтакте») для сбора обезличенной статистики использования с целью оценки ключевых показателей эффективности (KPI) и улучшения пользовательского опыта.
+- First name, last name, email address
+- Phone number
+- Geolocation
+- Contacts
+- Photos, camera, microphone
+- Any other personal information
 
-MyTracker может автоматически собирать следующие **обезличенные** данные:
+### 1.2. Usage Data (MyTracker)
 
-- **Техническая информация об устройстве:** модель устройства, версия операционной системы, разрешение экрана, язык системы
-- **Идентификаторы:** IP-адрес (для определения общего местоположения на уровне страны/города), рекламные идентификаторы (Google Advertiser ID/GAID для Android~~, IDFA для iOS при наличии разрешения~~)
-- **События внутри приложения:** запуски приложения, переходы между экранами, использование функций (например, активация рандомизации через встряхивание), частота и длительность сессий
+The application uses the **MyTracker** analytics service (VK LLC) to collect anonymized usage statistics for the purpose of evaluating key performance indicators (KPIs) and improving the user experience.
+
+MyTracker may automatically collect the following **anonymized** data:
+
+- **Technical information about the device:** device model, operating system version, screen resolution, system language
+- **Identifiers:** IP address (to determine general location at the country/city level), advertising identifiers (Google Advertiser ID/GAID for Android~~, IDFA for iOS subject to permission~~)
+- **In-app events:** app launches, screen transitions, feature usage (e.g., activating randomization via shaking), frequency and duration of sessions
 
 <div class="markdown-alert markdown-alert-important" dir="auto">
     <p class="markdown-alert-title" dir="auto">
@@ -48,38 +50,42 @@ MyTracker может автоматически собирать следующ�
                 stroke-linejoin="round"
             />
         </svg>
-        Важно
+        Important
     </p>
     <p dir="auto" class="alert">
-        Все собираемые данные являются <b>анонимными и обезличенными</b>. Они не позволяют идентифицировать конкретного  пользователя и используются исключительно в агрегированном виде для анализа общей эффективности приложения и маркетинговых кампаний.
+        All collected data is <b>anonymous and depersonalized</b>. It does not allow identifying a specific user and is used exclusively in aggregated form to analyze the overall effectiveness of the application and marketing campaigns.
     </p>
 </div>
 
-Цели обработки данных через MyTracker:
+Purposes of data processing via MyTracker:
 
-- Оценка количества установок и источников трафика (атрибуция)
-- Анализ поведения пользователей внутри приложения
-- Измерение ключевых метрик (KPI): удержание, частота использования, конверсии
-- ~~Оптимизация рекламных кампаний и маркетинговых бюджетов~~
-  
-### 1.3. Данные из Google Play Console
+- Assessing the number of installs and traffic sources (attribution)
+- Analyzing user behavior within the application
+- Measuring key metrics (KPIs): retention, frequency of use, conversions
+- ~~Optimizing advertising campaigns and marketing budgets~~
 
-Для оценки общих показателей эффективности приложения мы также используем статистику, предоставляемую Google Play Console. Эти данные являются агрегированными и обезличенными и не позволяют идентифицировать конкретных пользователей. К ним относятся:
+### 1.3. Data from Google Play Console
 
-- Информация об установках и устройствах: общее количество установок, активные устройства, версии Android, модели устройств, страны и языки пользователей.
-- Показатели технического качества (Android Vitals): частота отказов (ANR) и падений приложения, а также статистика по разрешениям, например, процент отказов пользователей в предоставлении разрешений. Эти данные помогают нам выявлять и исправлять проблемы, влияющие на стабильность приложения.
-- Данные о взаимодействии с магазином: просмотры страницы приложения, поисковые запросы, предварительные регистрации.
-- Показатели удержания: коэффициенты удержания и конверсии пользователей.
+To assess the overall performance of the application, we also use statistics provided by Google Play Console. This data is aggregated and depersonalized and does not allow identifying specific users. It includes:
 
-Все эти данные предоставляются Google в агрегированном виде для всех разработчиков в Play Console и используются исключительно для анализа работы приложения и его маркетинга.
-### 1.4. Локальное хранение
+- Installation and device information: total number of installs, active devices, Android versions, device models, countries, and user languages.
+- Technical quality indicators (Android Vitals): frequency of ANRs and app crashes, as well as permission statistics, such as the percentage of users who deny permission requests. This data helps us identify and fix issues affecting app stability.
+- Store interaction data: app page views, search queries, pre-registrations.
+- Retention metrics: user retention and conversion rates.
 
-Приложение использует локальное хранилище устройства (DataStore) для сохранения настроек и данных, необходимых для работы функций приложения. Эти данные хранятся только на вашем устройстве и не передаются на какие-либо серверы или третьим лицам.
-## 2. Разрешения устройства
+All this data is provided by Google in aggregated form to all developers in Play Console and is used exclusively to analyze the application's performance and its marketing.
 
-Приложение запрашивает следующие разрешения:
-- `android.permission.VIBRATE` - для вибрации при нажатии кнопок, имитации броска кубика и т. д.
-- `android.hardware.sensor.accelerometer` - Используется для функции «встряхнуть устройство для броска кубика»
+### 1.4. Local Storage
+
+The application uses the device's local storage (DataStore) to save settings and data necessary for the application's features. This data is stored only on your device and is not transferred to any servers or third parties.
+
+## 2. Device Permissions
+
+The application requests the following permissions:
+
+- `android.permission.VIBRATE` - for vibration when pressing buttons, simulating a dice roll, etc.
+- `android.hardware.sensor.accelerometer` - Used for the "shake the device to roll the dice" feature
+
 <div class="markdown-alert markdown-alert-caution" dir="auto">
     <p class="markdown-alert-title" dir="auto">
         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="alert_svg">
@@ -91,22 +97,24 @@ MyTracker может автоматически собирать следующ�
                 stroke-linejoin="round"
             />
         </svg>
-        Внимание!
+        Caution!
     </p>
-    <h2>Не бросать устройство!</h2>
-    Мы не несём ответственности за то, как Вы пользуетесь функциями нашего приложения.
+    <h2>Do not throw the device!</h2>
+    We are not responsible for how you use the features of our application.
 </div>
 
-Эти разрешения не связаны со сбором данных.
-## 3. Сторонние сервисы
+These permissions are not related to data collection.
 
-Приложение использует следующие сторонние сервисы:
-### 3.1. MyTracker (аналитический сервис VK)
+## 3. Third-Party Services
 
-Провайдер: ООО «ВКонтакте»
-Назначение: Сбор обезличенной аналитики для оценки KPI и улучшения приложения
-Тип данных: Обезличенные технические данные и события использования (см. [раздел 1.2](https://randomer-project.github.io/app/privacy-policy#12-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D0%BE%D0%B1-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8-mytracker))
-Политика конфиденциальности: [https://tracker.my.com/ru/legal/privacy-policy](https://tracker.my.com/ru/legal/privacy-policy)
+The application uses the following third-party services:
+
+### 3.1. MyTracker (VK Analytics Service)
+
+Provider: VK LLC
+Purpose: Collection of anonymized analytics for KPI assessment and app improvement
+Data type: Anonymized technical data and usage events (see [section 1.2](https://randomer-project.github.io/app/privacy-policy#12-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D0%BE%D0%B1-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8-mytracker))
+Privacy Policy: [https://tracker.my.com/ru/legal/privacy-policy](https://tracker.my.com/ru/legal/privacy-policy)
 
 <div class="markdown-alert markdown-alert-important" dir="auto">
     <p class="markdown-alert-title" dir="auto">
@@ -119,73 +127,79 @@ MyTracker может автоматически собирать следующ�
                 stroke-linejoin="round"
             />
         </svg>
-        Важно
+        Important
     </p>
     <p dir="auto" class="alert">
-        MyTracker НЕ собирает персональные данные (имя, телефон, email, геолокацию, контакты, фото, видео). Все данные обезличены и используются только в агрегированном виде.
+        MyTracker does NOT collect personal data (name, phone, email, geolocation, contacts, photos, videos). All data is anonymized and used only in aggregated form.
     </p>
 </div>
-### 3.2. Отсутствие других сервисов
 
-В приложении НЕ используются следующие сервисы:
+### 3.2. Absence of Other Services
 
-- Отсутствует реклама (AdMob, Unity Ads и др.)
-- ~~Отсутствует аналитика (Google Analytics, Firebase Analytics) — кроме указанного выше MyTracker~~
-- Отсутствуют облачные сервисы (Firebase, AWS, Azure)
-- Отсутствуют социальные сети (Facebook SDK, Google Sign-In)
+The application does NOT use the following services:
 
-## 4. Хранение данных
+- No advertising (AdMob, Unity Ads, etc.)
+- ~~No analytics (Google Analytics, Firebase Analytics) — except for MyTracker mentioned above~~
+- No cloud services (Firebase, AWS, Azure)
+- No social networks (Facebook SDK, Google Sign-In)
 
-Все данные, создаваемые Приложением (настройки~~, сохранённые списки~~), хранятся исключительно локально в памяти вашего устройства с использованием Android DataStore.
-Удаление данных
+## 4. Data Storage
 
-Пользователь может удалить все данные Приложения в любой момент следующими способами:
+All data created by the Application (settings~~, saved lists~~) is stored exclusively locally in your device's memory using Android DataStore.
 
-- Настройки Android → Приложения → [НАЗВАНИЕ ПРИЛОЖЕНИЯ] → Очистить данные
-- Удаление приложения с устройства
+Data Deletion
 
-## 5. Передача данных третьим лицам
+The user can delete all Application data at any time in the following ways:
 
-Приложение НЕ передаёт, НЕ продаёт и НЕ раскрывает данные пользователей третьим лицам, включая:
+- Android Settings → Apps → [APPLICATION NAME] → Clear data
+- Uninstalling the application from the device
 
-- Рекламные сети
-- Аналитические платформы
-- Маркетинговые компании
-- Государственные органы (если иное не требуется законом)
+## 5. Transfer of Data to Third Parties
 
-## 6. Безопасность данных
+The application does NOT transfer, DOES NOT sell, and DOES NOT disclose user data to third parties, including:
 
-Хотя Приложение не собирает и не передаёт данные, мы всё равно применяем стандартные меры безопасности для защиты целостности кода:
+- Advertising networks
+- Analytics platforms
+- Marketing companies
+- Government authorities (unless otherwise required by law)
 
-- Использование защищённых протоколов (HTTPS) — не применяется, так как приложение работает офлайн
-- Минимизация разрешений
-- Отсутствие внешних сетевых запросов
+## 6. Data Security
 
-## 7. Конфиденциальность детей
+Although the Application does not collect or transfer data, we still apply standard security measures to protect code integrity:
 
-Приложение предназначено для всех возрастов и не содержит контента, вредного для детей. Поскольку мы не собираем никаких данных, мы не храним информацию о лицах младше 13 лет.
-## 8. Файлы Cookie
+- Use of secure protocols (HTTPS) — not applicable, as the application works offline
+- Minimization of permissions
+- No external network requests
 
-Приложение не использует файлы cookie и веб-трекинг.
-## 9. Изменения в Политике конфиденциальности
+## 7. Children's Privacy
 
-Мы можем обновлять настоящую Политику конфиденциальности. Все изменения будут опубликованы на этой странице с указанием новой даты. Рекомендуем периодически проверять эту страницу.
-## 10. Ваши права (GDPR, CCPA)
+The application is intended for all ages and does not contain content harmful to children. Since we do not collect any data, we do not store information about persons under the age of 13.
 
-Поскольку Приложение не собирает персональные данные:
+## 8. Cookies
 
-- Право на доступ — нет данных для доступа
-- Право на удаление — пользователь может удалить локальные данные через настройки устройства
-- Право на переносимость — нет данных для переноса
+The application does not use cookies or web tracking.
 
-Если вы считаете, что мы каким-либо образом нарушаем ваши права, свяжитесь с нами по email ниже.
-## 11. Контактная информация
+## 9. Changes to the Privacy Policy
 
-- Разработчик: [ИМЯ РАЗРАБОТЧИКА ИЛИ НАЗВАНИЕ КОМПАНИИ]
+We may update this Privacy Policy. All changes will be published on this page with the new date indicated. We recommend periodically checking this page.
+
+## 10. Your Rights (GDPR, CCPA)
+
+Since the Application does not collect personal data:
+
+- Right of access — there is no data to access
+- Right to erasure — the user can delete local data via device settings
+- Right to data portability — there is no data to transfer
+
+If you believe that we are in any way violating your rights, contact us at the email below.
+
+## 11. Contact Information
+
+- Developer: [DEVELOPER NAME OR COMPANY NAME]
 - Email: <example@gmail.com>
-- Страна: [СТРАНА РАЗРАБОТЧИКА]
+- Country: [DEVELOPER'S COUNTRY]
 
-По вопросам обработки данных через MyTracker:
+For questions regarding data processing via MyTracker:
 
-- Поддержка MyTracker: <support@tracker.my.com>
-- Политика конфиденциальности MyTracker: [https://tracker.my.com/ru/legal/privacy-policy](https://tracker.my.com/ru/legal/privacy-policy)
+- MyTracker Support: <support@tracker.my.com>
+- MyTracker Privacy Policy: [https://tracker.my.com/ru/legal/privacy-policy](https://tracker.my.com/ru/legal/privacy-policy)
