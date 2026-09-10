@@ -4,6 +4,11 @@ description: "Read the Privacy Policy of Randomer"
 MainPage: "Main page "
 anotherLang: https://randomer-project.github.io/app/ru/privacy-policy
 footerLangSwitch: "ПЕРЕКЛЮЧИТЬСЯ НА РУССКИЙ"
+footerLinkChannel: "Котик рыжопик: "
+footerLinkChannelRutube: "RUTUBE"
+footerLinkChannelRutubeLogo: https://randomer-project.github.io/app/images/rutubeIcon.png
+footerLinkChannelMax: "MAX"
+footerLinkChannelMaxLogo: https://randomer-project.github.io/app/images/maxIcon.png
 ---
 
 <br>
