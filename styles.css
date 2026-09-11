@@ -37,6 +37,37 @@ toolbar {
   -webkit-backdrop-filter: blur(2px);
 }
 
+announcement {
+  backdrop-filter: blur(2px);
+  -webkit-backdrop-filter: blur(2px);
+  position: relative;
+  z-index: 97;
+  border-radius: 22px;
+  width: 100%;
+  height: 120px
+}
+announcement p {
+  position: relative;
+  z-index: 98;
+  padding: 10px
+}
+announcement h {
+  position: relative;
+  z-index: 98;
+  font-weight: bold;
+  font-size: large;
+  padding: 10px
+}
+announcement a {
+  position: relative;
+  z-index: 98;
+}
+announcement a img { }
+announcement img {
+  position: relative;
+  z-index: 96;
+}
+
 .icon {
   border-radius: 8px;
   position: fixed;
