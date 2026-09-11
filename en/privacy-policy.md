@@ -200,8 +200,8 @@ If you believe that we are in any way violating your rights, contact us at the e
 For questions regarding data processing via MyTracker:
 
 - MyTracker Support: <support@tracker.my.com>
-- MyTracker Privacy Policy: [https://tracker.my.com/ru/legal/privacy-policy](https://tracker.my.com/ru/legal/privacy-policy)
+- MyTracker Privacy Policy: [https://tracker.my.com/ru/legal/privacy-policy](https://tracker.my.com/ru/legal/privacy-policy)\
 
-
+\
 Publication date: 11.09.2026\
 Effective date: absent
