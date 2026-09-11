@@ -36,7 +36,7 @@ The application uses the **MyTracker** analytics service (VK LLC) to collect ano
 MyTracker may automatically collect the following **anonymized** data:
 
 - **Technical information about the device:** device model, operating system version, screen resolution, system language
-- **Identifiers:** IP address (to determine general location at the country/city level), advertising identifiers (Google Advertiser ID/GAID for Android~~, IDFA for iOS subject to permission~~)
+- **Identifiers:** IP address (to determine general location at the country/city level), advertising identifiers (Google Advertiser ID/GAID for Android)
 - **In-app events:** app launches, screen transitions, feature usage (e.g., activating randomization via shaking), frequency and duration of sessions
 
 <div class="markdown-alert markdown-alert-important" dir="auto">
@@ -62,7 +62,6 @@ Purposes of data processing via MyTracker:
 - Assessing the number of installs and traffic sources (attribution)
 - Analyzing user behavior within the application
 - Measuring key metrics (KPIs): retention, frequency of use, conversions
-- ~~Optimizing advertising campaigns and marketing budgets~~
 
 ### 1.3. Data from Google Play Console
 
@@ -113,7 +112,7 @@ The application uses the following third-party services:
 
 Provider: VK LLC
 Purpose: Collection of anonymized analytics for KPI assessment and app improvement
-Data type: Anonymized technical data and usage events (see [section 1.2](https://randomer-project.github.io/app/privacy-policy#12-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D0%BE%D0%B1-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8-mytracker))
+Data type: Anonymized technical data and usage events (see [section 1.2](https://randomer-project.github.io/app/en/privacy-policy#12-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D0%BE%D0%B1-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8-mytracker))
 Privacy Policy: [https://tracker.my.com/ru/legal/privacy-policy](https://tracker.my.com/ru/legal/privacy-policy)
 
 <div class="markdown-alert markdown-alert-important" dir="auto">
@@ -139,19 +138,18 @@ Privacy Policy: [https://tracker.my.com/ru/legal/privacy-policy](https://tracker
 The application does NOT use the following services:
 
 - No advertising (AdMob, Unity Ads, etc.)
-- ~~No analytics (Google Analytics, Firebase Analytics) — except for MyTracker mentioned above~~
 - No cloud services (Firebase, AWS, Azure)
 - No social networks (Facebook SDK, Google Sign-In)
 
 ## 4. Data Storage
 
-All data created by the Application (settings~~, saved lists~~) is stored exclusively locally in your device's memory using Android DataStore.
+All data created by the Application (settings) is stored exclusively locally in your device's memory using Android DataStore.
 
 Data Deletion
 
 The user can delete all Application data at any time in the following ways:
 
-- Android Settings → Apps → [APPLICATION NAME] → Clear data
+- Android Settings → Apps → Randomer → Clear data
 - Uninstalling the application from the device
 
 ## 5. Transfer of Data to Third Parties
@@ -195,11 +193,15 @@ If you believe that we are in any way violating your rights, contact us at the e
 
 ## 11. Contact Information
 
-- Developer: [DEVELOPER NAME OR COMPANY NAME]
-- Email: <example@gmail.com>
-- Country: [DEVELOPER'S COUNTRY]
+- Developer: Aleksandr
+- Email: <support.randomer@gmail.com>
+- Country: Russia
 
 For questions regarding data processing via MyTracker:
 
 - MyTracker Support: <support@tracker.my.com>
 - MyTracker Privacy Policy: [https://tracker.my.com/ru/legal/privacy-policy](https://tracker.my.com/ru/legal/privacy-policy)
+
+
+Publication date: 11.09.2026\
+Effective date: absent
