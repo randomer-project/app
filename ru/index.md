@@ -13,6 +13,7 @@ footerLinkChannelMaxLogo: https://randomer-project.github.io/app/images/maxIcon.
 
 <br>
 <announcement class="download">
+  ::before
   <h>Скачать Randomer</h>
   <background class="mainGradient"></background>
   <p>
