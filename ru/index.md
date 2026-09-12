@@ -14,7 +14,7 @@ footerLinkChannelMaxLogo: https://randomer-project.github.io/app/images/maxIcon.
 <br>
 <announcement class="download">
   <h>Скачать Randomer</h>
-  <background class="mainGradient">
+  <background class="mainGradient"></background>
   <p>
     Бросайте кубик, находите интересные символы, которые можно копировать, играйте в кликер и смейтесь над смешными фразами 
   </p>
