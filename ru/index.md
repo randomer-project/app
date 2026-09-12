@@ -19,9 +19,9 @@ footerLinkChannelMaxLogo: https://randomer-project.github.io/app/images/maxIcon.
     Бросайте кубик, находите интересные символы, которые можно копировать, играйте в кликер и смейтесь над смешными фразами 
   </p>
   <a href="google play link">
-    <img src="https://randomer-project.github.io/app/images/googlePlay">
+    <img src="https://randomer-project.github.io/app/images/googlePlay.svg">
   </a>
   <a href="rustore link">
-    <img src="https://randomer-project.github.io/app/images/rustore">
+    <img src="https://randomer-project.github.io/app/images/rustore.png">
   </a>
 </announcement>
