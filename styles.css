@@ -58,7 +58,7 @@ announcement margin {
 announcement p {
   position: relative;
   z-index: 98;
-  padding: 15px
+  padding: 15px;
   width: 94%;
 }
 announcement h {
