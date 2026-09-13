@@ -11,7 +11,7 @@ footerLinkChannelMax: "MAX"
 footerLinkChannelMaxLogo: https://randomer-project.github.io/app/images/maxIcon.png
 ---
 
-<br>
+<br><br>
 <announcement class="download" height="120">
   <margin height="20px"></margin>
   <h>Скачать Randomer</h>
@@ -26,3 +26,4 @@ footerLinkChannelMaxLogo: https://randomer-project.github.io/app/images/maxIcon.
     <img src="https://randomer-project.github.io/app/images/rustore.png">
   </a>
 </announcement>
+<br>
