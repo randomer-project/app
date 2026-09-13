@@ -46,9 +46,9 @@ announcement {
   height: 120px;
   display: table;
   background:
-    linear-gradient(219deg, #cc6666, rgba(0, 0, 0, 0.30) 70.71%),
-    linear-gradient(127deg, #880000, rgba(0, 0, 0, 0.30) 70.71%),
-    linear-gradient(89deg, #ff9999, rgba(0, 0, 0, 0.30) 70.71%);
+    linear-gradient(219deg, #cc6666, light-dark(rgba(225, 225, 225, 0.30), rgba(0, 0, 0, 0.30)) 70.71%),
+    linear-gradient(127deg, #880000, light-dark(rgba(225, 225, 225, 0.30), rgba(0, 0, 0, 0.30)) 70.71%),
+    linear-gradient(89deg, #ff9999, light-dark(rgba(225, 225, 225, 0.30), rgba(0, 0, 0, 0.30)) 70.71%);
 }
 announcement margin {
   width: 100%;
@@ -59,6 +59,7 @@ announcement p {
   position: relative;
   z-index: 98;
   padding: 15px
+  width: 94%;
 }
 announcement h {
   position: relative;
@@ -68,8 +69,10 @@ announcement h {
   padding: 15px
 }
 announcement a {
-  position: relative;
+  position: absolute;
   z-index: 98;
+  display: flex;
+  justify-content: flex-end;
 }
 announcement a.googlePlay {
   right: 20px;
@@ -83,6 +86,7 @@ announcement a img {
   display: table;
   width: 40px;
   height: 40px;
+  border-radius: 10px;
 }
 
 .icon {
