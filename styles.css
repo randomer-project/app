@@ -48,7 +48,7 @@ announcement {
   background:
     linear-gradient(219deg, #cc6666, rgba(0, 0, 0, 0.30) 70.71%),
     linear-gradient(127deg, #880000, rgba(0, 0, 0, 0.30) 70.71%),
-    linear-gradient(336deg, #ff9999, rgba(0, 0, 0, 0.30) 70.71%);
+    linear-gradient(89deg, #ff9999, rgba(0, 0, 0, 0.30) 70.71%);
 }
 announcement margin {
   width: 100%;
@@ -70,6 +70,14 @@ announcement h {
 announcement a {
   position: relative;
   z-index: 98;
+}
+announcement a.googlePlay {
+  right: 20px;
+  top: 20px;
+}
+announcement a.rustore {
+  right: 20px;
+  top: 70px;
 }
 announcement a img {
   display: table;
