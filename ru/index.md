@@ -12,17 +12,17 @@ footerLinkChannelMaxLogo: https://randomer-project.github.io/app/images/maxIcon.
 ---
 
 <br>
-<announcement class="download">
+<announcement class="download" height="120px">
   <margin height="20px"></margin>
   <h>Скачать Randomer</h>
   <background class="mainGradient"></background>
   <p>
     Бросайте кубик, находите интересные символы, которые можно копировать, играйте в кликер и смейтесь над смешными фразами 
   </p>
-  <a href="google play link">
+  <a href="google play link" class="googlePlay">
     <img src="https://randomer-project.github.io/app/images/googlePlay.svg">
   </a>
-  <a href="rustore link">
+  <a href="rustore link" class="rustore">
     <img src="https://randomer-project.github.io/app/images/rustore.png">
   </a>
 </announcement>
