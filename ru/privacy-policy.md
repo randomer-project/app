@@ -186,7 +186,7 @@ MyTracker может автоматически собирать следующ�
 По вопросам обработки данных через MyTracker:
 
 - Поддержка MyTracker: <support@tracker.my.com>
-- Политика конфиденциальности MyTracker: [https://tracker.my.com/ru/legal/privacy-policy](https://tracker.my.com/ru/legal/privacy-policy)\
+- Политика конфиденциальности MyTracker: [https://tracker.my.com/ru/legal/privacy-policy](https://tracker.my.com/ru/legal/privacy-policy)
 
  \
 Дата публикации: 11.09.2026\
