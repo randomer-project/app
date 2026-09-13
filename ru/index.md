@@ -17,7 +17,7 @@ footerLinkChannelMaxLogo: https://randomer-project.github.io/app/images/maxIcon.
   <h>Скачать Randomer</h>
   <background class="mainGradient"></background>
   <p>
-    Бросайте кубик, находите интересные символы, которые можно копировать, играйте в кликер и смейтесь над смешными фразами 
+    Бросайте кубик, находите и копируйте интересные символы, играйте в оригинальный кликер и создавайте смешные фразы
   </p>
   <a href="google play link" class="googlePlay">
     <img src="https://randomer-project.github.io/app/images/googlePlay.svg">
