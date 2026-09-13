@@ -59,7 +59,7 @@ announcement p {
   position: relative;
   z-index: 98;
   padding: 15px;
-  width: 94%;
+  padding-right: 60px;
 }
 announcement h {
   position: relative;
