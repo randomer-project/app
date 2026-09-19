@@ -1,9 +1,9 @@
 <script>
-  var userLang = (navigator.language || navigator.userLanguage).slice(0, 2);
+  var userLang = navigator.language || navigator.userLanguage;
   
   console.log("User language: " + userLang);
   
-  if (userLang === "ru") {
+  if (userLang === "ru-RU") {
     window.location.href = "ru";
   }
   else {
