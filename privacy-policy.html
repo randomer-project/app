@@ -1,4 +1,12 @@
 <script>
   var userLang = navigator.language || navigator.userLanguage;
-  window.location.href = userLang.split('-')[0]+"/privacy-policy";
+  
+  console.log("User language: " + userLang);
+  
+  if (userLang === "ru") {
+    window.location.href = "ru/privacy-policy";
+  }
+  else {
+    window.location.href = "en/privacy-policy";
+  }
 </script>
