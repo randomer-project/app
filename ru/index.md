@@ -27,9 +27,9 @@ footerLinkChannelMaxLogo: https://randomer-project.github.io/app/images/maxIcon.
   </a>
 </announcement>
 
-<a href="https://rutube.ru/channel/79395925/"><announcement class="channel" height="120" style="background: url(app/images/ckannelRutubeFolder.svg) no-repeat center / cover;">
+<a href="https://rutube.ru/channel/79395925/"><announcement class="channel" height="120" style="background: url(https://randomer-project.github.io/app/images/ckannelRutubeFolder.svg) no-repeat center / cover;">
   <margin height="20px"></margin>
-  <h>Котик рыжопик на</h> <svg src="app/svg/rutubeLogo.svg"></svg>
+  <h>Котик рыжопик на</h> <svg src="https://randomer-project.github.io/app/svg/rutubeLogo.svg"></svg>
   <background class="mainGradient"></background>
   <p>
     Подписывайтесь и смотрите весёлого котика
