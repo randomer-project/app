@@ -89,12 +89,11 @@ announcement a img {
   padding: 3px;
 }
 announcement.channel img {
-  backround: null;
+  backround: rgba(0,0,0,0);
 }
 announcement.channel img.rutubeLogo {
-  width: 20%;
+  width: 15%;
   height: 20%;
-  display: block;
 }
 
 .icon {
