@@ -88,6 +88,14 @@ announcement a img {
   border-radius: 10px;
   padding: 3px;
 }
+announcement.channel img {
+  backround: null;
+}
+announcement.channel img.rutubeLogo {
+  width: 20%;
+  height: 20%;
+  display: block;
+}
 
 .icon {
   border-radius: 8px;
