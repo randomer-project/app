@@ -89,10 +89,10 @@ announcement a img {
   padding: 3px;
 }
 announcement.channel img {
-  backround: rgba(0,0,0,0);
+  background: rgba(0,0,0,0);
 }
 announcement.channel img.rutubeLogo {
-  width: 15%;
+  width: 30%;
   height: 20%;
 }
 
@@ -201,6 +201,10 @@ img.logo {
     backdrop-filter: blur(2px);
     -webkit-backdrop-filter: blur(2px);
   }
+  announcement.channel img.rutubeLogo {
+    width: 25%;
+    height: 20%;
+  }
 }
 @media (min-width: 720px){
   toolbar {
@@ -227,6 +231,10 @@ img.logo {
 
     backdrop-filter: blur(2px);
     -webkit-backdrop-filter: blur(2px);
+  }
+  announcement.channel img.rutubeLogo {
+    width: 25%;
+    height: 20%;
   }
 }
 @media (min-width: 800px){
@@ -255,6 +263,10 @@ img.logo {
     backdrop-filter: blur(2px);
     -webkit-backdrop-filter: blur(2px);
   }
+  announcement.channel img.rutubeLogo {
+    width: 20%;
+    height: 20%;
+  }
 }
 @media (min-width: 1078px){
   toolbar {
@@ -281,5 +293,9 @@ img.logo {
 
     backdrop-filter: blur(2px);
     -webkit-backdrop-filter: blur(2px);
+  }
+  announcement.channel img.rutubeLogo {
+    width: 15%;
+    height: 20%;
   }
 }
