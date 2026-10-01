@@ -19,14 +19,15 @@ footerLinkChannelMaxLogo: https://randomer-project.github.io/app/images/maxIcon.
   <p>
     Бросайте кубик, находите и копируйте интересные символы, играйте в оригинальный кликер и создавайте смешные фразы
   </p>
-  <a href="google play link" class="googlePlay">
+  <a href="https://play.google.com/store/apps/details?id=daniil1562.randomer" class="googlePlay">
     <img src="https://randomer-project.github.io/app/images/googlePlay.svg">
   </a>
-  <a href="rustore link" class="rustore">
+  <a href="https://www.rustore.ru/catalog/app/daniil1562.randomer" class="rustore">
     <img src="https://randomer-project.github.io/app/images/rustore.png">
   </a>
 </announcement>
 
+<abc markdown="0">
 <a href="https://rutube.ru/channel/79395925/">
   <announcement class="channel" height="120" style='background: url(https://randomer-project.github.io/app/images/channelRutubeFolder.webp) no-repeat center / cover;'>
     <margin height="20px"></margin>
@@ -36,9 +37,8 @@ footerLinkChannelMaxLogo: https://randomer-project.github.io/app/images/maxIcon.
     </p>
   </announcement>
 </a> 
+</abc>
 
-<a>sdhsagdjash</a>
-<a href="https://max.ru/channel_kotik_rijopik">sdfsdfs</a>
 <abc markdown="0">
 <a href="https://max.ru/channel_kotik_rijopik">
   <announcement class="channel" height="120" style='background: url(https://randomer-project.github.io/app/images/channelMaxFolder.webp) no-repeat center / cover;'>
