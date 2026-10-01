@@ -48,6 +48,7 @@ announcement {
   background: url('images/iconBackground.png') no-repeat center / cover;
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
+  color: white;
 }
 announcement margin {
   width: 100%;
