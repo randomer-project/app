@@ -35,14 +35,14 @@ footerLinkChannelMaxLogo: https://randomer-project.github.io/app/images/maxIcon.
       Подписывайтесь и смотрите весёлого котика
     </p>
   </announcement>
-</a>
+</a> 
 
-<a href="https://rutube.ru/channel/79395925/">
-  <announcement class="channel" height="120" style='background: url(https://randomer-project.github.io/app/images/channelRutubeFolder.webp) no-repeat center / cover;'>
+<a href="https://max.ru/channel_kotik_rijopik">
+  <announcement class="channel" height="120" style='background: url(https://randomer-project.github.io/app/images/channelMaxFolder.webp) no-repeat center / cover;'>
     <margin height="20px"></margin>
-    <h>Котик рыжопик на</h> <img class="rutubeLogo" src="https://randomer-project.github.io/app/svg/rutubeLogo.svg">
+    <h>Котик рыжопик в</h> <img class="rutubeLogo" src="https://randomer-project.github.io/app/svg/maxLogo.svg">
     <p>
-      Подписывайтесь и смотрите весёлого котика
+      Подписывайтесь и смотрите cмешные фото котика Лёвы
     </p>
   </announcement>
 </a>
