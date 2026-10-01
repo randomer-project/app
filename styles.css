@@ -96,6 +96,10 @@ announcement.channel img.rutubeLogo {
   width: 30%;
   height: 20%;
 }
+announcement.channel img.maxLogo {
+  width: 22%;
+  height: 20%;
+}
 
 .icon {
   border-radius: 8px;
@@ -206,6 +210,10 @@ img.logo {
     width: 25%;
     height: 20%;
   }
+  announcement.channel img.maxLogo {
+    width: 17%;
+    height: 20%;
+  }
 }
 @media (min-width: 720px){
   toolbar {
@@ -235,6 +243,10 @@ img.logo {
   }
   announcement.channel img.rutubeLogo {
     width: 25%;
+    height: 20%;
+  }
+  announcement.channel img.maxLogo {
+    width: 14%;
     height: 20%;
   }
 }
@@ -268,6 +280,10 @@ img.logo {
     width: 20%;
     height: 20%;
   }
+  announcement.channel img.maxLogo {
+    width: 12%;
+    height: 20%;
+  }
 }
 @media (min-width: 1078px){
   toolbar {
@@ -297,6 +313,10 @@ img.logo {
   }
   announcement.channel img.rutubeLogo {
     width: 15%;
+    height: 20%;
+  }
+  announcement.channel img.maxLogo {
+    width: 8%;
     height: 20%;
   }
 }
