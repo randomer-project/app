@@ -25,7 +25,7 @@ footerLinkChannelMaxLogo: https://randomer-project.github.io/app/images/maxIcon.
   <a href="https://www.rustore.ru/catalog/app/daniil1562.randomer" class="rustore">
     <img src="https://randomer-project.github.io/app/images/rustore.png">
   </a>
-</announcement>
+</announcement><br>
 
 <abc markdown="0">
 <a href="https://rutube.ru/channel/79395925/">
@@ -37,7 +37,7 @@ footerLinkChannelMaxLogo: https://randomer-project.github.io/app/images/maxIcon.
     </p>
   </announcement>
 </a> 
-</abc>
+</abc><br>
 
 <abc markdown="0">
 <a href="https://max.ru/channel_kotik_rijopik">
