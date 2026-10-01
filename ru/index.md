@@ -39,6 +39,7 @@ footerLinkChannelMaxLogo: https://randomer-project.github.io/app/images/maxIcon.
 
 <a>sdhsagdjash</a>
 <a href="https://max.ru/channel_kotik_rijopik">sdfsdfs</a>
+<abc markdown="0">
 <a href="https://max.ru/channel_kotik_rijopik">
   <announcement class="channel" height="120" style='background: url(https://randomer-project.github.io/app/images/channelMaxFolder.webp) no-repeat center / cover;'>
     <margin height="20px"></margin>
@@ -48,4 +49,5 @@ footerLinkChannelMaxLogo: https://randomer-project.github.io/app/images/maxIcon.
     </p>
   </announcement>
 </a>
+</abc>
 <br>
