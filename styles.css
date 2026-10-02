@@ -89,6 +89,9 @@ announcement a img {
   border-radius: 10px;
   padding: 3px;
 }
+announcement.channel {
+  border: 1px solid #ff6600;
+}
 announcement.channel img {
   background: rgba(0,0,0,0);
 }
